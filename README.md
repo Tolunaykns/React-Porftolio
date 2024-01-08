@@ -17,27 +17,8 @@ Firstly, open your terminal and type in.
 ```bash
 npm install
 ```
-
-Then open in your folder and replace Program.cs in your file with the Program.cs you downloaded.
-
-### Requirements
-
-Just you must install "EAGetMail" package, that's it.
-
+After that you should run the server.
 ```bash
-dotnet add package EAGetMail
+npm run dev
 ```
 
-### Build
-If you'll build this project, type it in your console.
-
-```bash
-dotnet build
-```
-
-### Configuration
-For this you need to open the contents of the Program.cs file. You need to enter your e-mail in the "your email" section of the program, and your password or two-factor password in the "password" section.
-
-# License
-
-This project is licensed under the GNU General Public License v2.0 - see the [LICENSE](LICENSE) file for details.
