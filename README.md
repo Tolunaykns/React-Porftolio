@@ -16,7 +16,7 @@ If you do not have a <a href="https://learn.microsoft.com/tr-tr/dotnet/core/inst
 Firstly, open your terminal and type in.
 
 ```bash
-dotnet new console
+npm install
 ```
 
 Then open in your folder and replace Program.cs in your file with the Program.cs you downloaded.
